@@ -1,15 +1,17 @@
 const CONFIG = {
     avatar: [
-        "https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/clash_royale/archer_evolution.png",
-        "https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/clash_royale/archerqueen_mt.png",
-        "https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/clash_royale/boss_bandit.png",
-        "https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/clash_royale/cannonevolution.png",
-        "https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/clash_royale/daggerduchess.png"
+        "https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/avatars/warrior.png",
+        "https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/avatars/archer.png",
+        "https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/avatars/barbarian.png",
+        "https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/avatars/water_mage.png",
+        "https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/avatars/knight.png"
     ],
-    full_body:[
-         "https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/warrior.png",
-         "https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/sniper.png",
-         "https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/barbarian_m.png",
+    full_body: [
+        "https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/warrior.png",
+        "https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/archer.png",
+        "https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/barbarian_m.png",
+        "https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/elementalist.png",
+        "https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/knight.png"
     ]
 }
 
